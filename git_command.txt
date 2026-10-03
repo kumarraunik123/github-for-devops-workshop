@@ -1,0 +1,75 @@
+$ history
+    1  cd:D
+    2  cd:D
+    3  cd D:
+    4  cd Users
+    5  cd c:
+    6  cd Users
+    7  cd rauni
+    8  mkdir gfg-devops-48-class
+    9  cd gfg-devops-48-class
+   10  pwd
+   11  mkdir git-github-gfg/
+   12  pwd
+   13  cd git-github-gfg
+   14  mkdir prac1
+   15  pwd
+   16  mkdir prac1
+   17  cd prac1/
+   18  git init 
+   19  ls
+   20  ls -a
+   21  touch a.py
+   22  ls -l
+   23  cat a.py
+   24  git status
+   25  git add a.py
+   26  git status
+   27  git commit -m "created a new blank file a.py"
+   28  git status
+   29  git log
+   30  git config user.email
+   31  git config user.name
+   32  cd ..
+   33  ls
+   34  mkdir prac2
+   35  cd prac2
+   36  ls
+   37  git config user.email
+   38  cd prac1
+   39  cd..
+   40  cd ..
+   41  git config user.name
+   42  ls
+   43  pwd
+   44  history
+   45  gfg-devops-48-class
+   46  ls
+   47  pwd
+   48  cd:gfg-devops-48-class
+   49  cd gfg-devops-48-class~
+   50  cd gfg-devops-48-class
+   51  cd git github-gfg
+   52  git-github-gfg
+   53  cd git-github-gfg
+   54  cd prac2
+   55  git log
+   56  chmod 400 demo.pem~
+   57  cd /c/Users/rauni~
+   58  cd /c/Users/rauni
+   59  chmod 400 demo.pem
+   60  cd Downlods
+   61  cd Downloads
+   62  ls
+   63  chmod 400 demo.pem
+   64  ssh -i demo.pem ubuntu@YOUR_EC2_PUBLIC_IP
+   65  ssh -i "demo.pem" ubuntu@ec2-3-109-58-253.ap-south-1.compute.amazonaws.com
+   66  ssh -i "demo.pem" ubuntu@ec2-3-109-58-253.ap-south-1.compute.amazonaws.com
+   67  ssh -i "demo.pem" ubuntu@ec2-13-232-233-148.ap-south-1.compute.amazonaws.com
+   68  ls -l
+   69  git init .
+   70  ls -a
+   71  git status
+   72  git add testing.py
+   73  git commit -m "added testing.py"
+   74  history  
